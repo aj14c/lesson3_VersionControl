@@ -4,13 +4,13 @@
 LIS 2360:  Web Application Development
 
 ## Assignment Date:  
-(Month Day, Year)
+(02 03,2017)
 
 ## Student Name:  
-(First and Last Name)
+(Andrew Jones)
 
 ## Project Description:
-(In your own words, briefly describe the assignment.)
+(In this assignment we were to summarize five key concepts in lesson 3, in order to create a webpage.)
 
 ## Lessons Learned in the Assignment:
 1. (Briefly describe a lesson/concept learned in this lesson.)
